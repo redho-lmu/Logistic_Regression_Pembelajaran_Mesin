@@ -1,1 +1,1 @@
-# Logistic_Regression_Pembelajaran_Mesin
+Tugas Logistic Regression Pembelajaran Mesin
